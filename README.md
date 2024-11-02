@@ -1,0 +1,1 @@
+# satnegirji.db
