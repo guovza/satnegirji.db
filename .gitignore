@@ -1,0 +1,48 @@
+# macOS
+.DS_Store
+__MACOSX/
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# macOS, files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+##### Linux
+*~
+
+# temporary files which can be created if a process still has a handle open of a deleted file
+.fuse_hidden*
+
+# KDE directory preferences
+.directory
+
+# Linux trash folder which might appear on any partition or disk
+.Trash-*
+
+# .nfs files are created when an open file is removed but is still being accessed
+.nfs*
+
+# Compiled C++ files
+*.out
+   
+# Custom
+*.bak   
+*.dist
+*.html.*
+*.php.*
+*.cpp.*
+*.c.*
+*.txt.*
+*.jpg.*
+*.jpeg.*
+*.old
+**/privat
